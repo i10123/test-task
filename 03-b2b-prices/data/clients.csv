@@ -1,0 +1,7 @@
+client_id;name;price_type;personal_discount
+K-001;Клиент 001 (розница);RETAIL;0
+K-002;Клиент 002;OPT1;5
+K-003;Клиент 003 (дилер);DEALER;0
+K-004;Клиент 004;OPT2;0
+K-005;Клиент 005;OPT1;0
+K-006;Клиент 006;OPT2;0
